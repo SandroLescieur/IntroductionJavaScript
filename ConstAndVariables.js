@@ -1,7 +1,5 @@
 <script>
 
-<script>
-
 document.write('Introduccion a Javascript</br>');    // la etiqueta </br> nos da un salto de linea
 
 let frase = "¿Cuántas patas tiene un gato?</br>";    // const es una constante
